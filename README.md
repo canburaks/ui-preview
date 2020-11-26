@@ -2,6 +2,9 @@
 
 User interface preview web component. It can be used by demonstrating user interfaces without embedding third party providers.
 
+![Demonstration](https://cbsofyalioglu.fra1.digitaloceanspaces.com/note-images/ui-preview-web-components/ui-preview-full.gif)
+
+
 ```bash
 git clone https://github.com/canburaks/ui-preview.git
 ```
