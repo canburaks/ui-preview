@@ -1,0 +1,19 @@
+{
+  "name": "ui-preview",
+  "version": "1.0.0",
+  "description": "User interface preview web component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.js --global ui_preview --experimental-scope-hoisting --out-file ui-preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-proposal-decorators": "^7.12.1",
+    "@babel/preset-env": "^7.12.7"
+  }
+}
